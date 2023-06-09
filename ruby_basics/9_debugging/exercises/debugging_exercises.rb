@@ -54,5 +54,5 @@ def yell_greeting(string)
   name = string
   # binding.pry
   name = name.upcase
-  greeting = "WASSAP, #{name}!"
+  "WASSAP, #{name}!"
 end
